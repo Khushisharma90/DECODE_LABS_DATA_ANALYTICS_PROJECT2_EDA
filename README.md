@@ -27,6 +27,7 @@ Data Range11.39 \text{ to } 3,456.40Absolute minimum and maximum boundary values
 ​This project's execution artifacts are structured as follows:
 ​📄 Khushi_Sharma_Project2_EDA_Report.docx - Comprehensive formal corporate/academic report detailing executive summaries, visual descriptions, and governance models.
 ​💻 .ipynb Notebook - Documented Python source code executing the EDA pipeline, generating statistical computations, and rendering visual plots.
+.py - Python source code executing the EDA pipeline, generating statistical computations, and rendering visual plots.
 📄 Khushi_Sharma_Project2_EDA_Report.pdf-Comprehensive formal corporate/academic report detailing executive summaries, visual descriptions, and governance models.
 ​Submitted By: Khushi Sharma
 Academic Specialization: B.Tech Computer Science and Engineering
