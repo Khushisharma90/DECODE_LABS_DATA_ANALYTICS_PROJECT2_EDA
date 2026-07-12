@@ -32,3 +32,15 @@ Data Range11.39 \text{ to } 3,456.40Absolute minimum and maximum boundary values
 ​Submitted By: Khushi Sharma
 Academic Specialization: B.Tech Computer Science and Engineering
 Training Platform: DecodeLabs Data Analytics Internship Portfolio
+
+## 🚀 How to Run
+
+To execute the automated EDA pipeline on your local system, follow these steps:
+
+### Prerequisites
+Ensure you have Python installed along with the required analytical libraries:
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+ 
+python untitled1.py
+ 
