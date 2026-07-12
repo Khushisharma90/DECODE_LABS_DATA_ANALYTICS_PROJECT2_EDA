@@ -9,10 +9,10 @@
 ​📊 Core Statistical Insights
 ​The analysis pipeline processed a batch dataset of 1,200 records with a 98.16% initial data quality validation rate, yielding the following key descriptive metrics:
 Statistical MetricOperational ValueAnalytical Significance
-Mean (Average)1,053.96Overall average transaction size; sensitive to extreme outliers.
-Median (Middle)823.61Robust central tendency value; unaffected by right-skewness.
-Standard Deviation819.85Represents moderate variance and spread across operational orders.
-Data Range11.39 \text{ to } 3,456.40Absolute minimum and maximum boundary values for transactions.
+Mean (Average)1,053.96 Overall average transaction size; sensitive to extreme outliers.
+Median (Middle)823.61 Robust central tendency value; unaffected by right-skewness.
+Standard Deviation819.85 Represents moderate variance and spread across operational orders.
+Data Range 11.39 \text{ to } 3,456.40 Absolute minimum and maximum boundary values for transactions.
 📈 Visual Analytics & Insights
 ​The framework generates three critical visualizations to diagnose the dataset's characteristics:
 ​Distribution & Skewness Analysis (Histogram): The dataset shows a Skewness Value of 0.89, indicating it is Highly Right-Skewed. The majority of purchase frequencies are heavily concentrated in the low-to-medium range ($0 to $1,000).
@@ -35,7 +35,7 @@ Training Platform: DecodeLabs Data Analytics Internship Portfolio
 
 ## 🚀 How to Run
 
-To execute the automated EDA pipeline on your local system, follow these steps:
+To execute the automated EDA framework and data analysis process on your local system, follow these steps:
 
 ### Prerequisites
 Ensure you have Python installed along with the required analytical libraries:
