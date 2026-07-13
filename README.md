@@ -12,10 +12,10 @@ Statistical MetricOperational ValueAnalytical Significance
 Mean (Average)1,053.96 Overall average transaction size; sensitive to extreme outliers.
 Median (Middle)823.61 Robust central tendency value; unaffected by right-skewness.
 Standard Deviation819.85 Represents moderate variance and spread across operational orders.
-Data Range 11.39 \text{ to } 3,456.40 Absolute minimum and maximum boundary values for transactions.
+Data Range 11.39 to 3,456.40 Absolute minimum and maximum boundary values for transactions.
 📈 Visual Analytics & Insights
 ​The framework generates three critical visualizations to diagnose the dataset's characteristics:
-​Distribution & Skewness Analysis (Histogram): The dataset shows a Skewness Value of 0.89, indicating it is Highly Right-Skewed. The majority of purchase frequencies are heavily concentrated in the low-to-medium range ($0 to $1,000).
+​Distribution & Skewness Analysis (Histogram): The dataset shows a Skewness Value of 0.89, indicating it is Highly Right-Skewed. The majority of purchase frequencies are heavily concentrated in the low-to-medium range (0 to 1,000).
 ​Outlier Detection (Boxplot): Transactions crossing the $3,300 to $3,500 threshold are plotted as distinct data points. These represent valid, high-value bulk purchases or VIP client interactions rather than data corruption errors.
 ​Correlation Mapping (Heatmap Matrix): Identifies behavioral relationships between continuous numerical variables. The strongest linear driver of total revenue is Unit Price vs Total Price (Correlation: 0.72), followed by Quantity constraints.
 ​🚀 Operational Performance Metrics
