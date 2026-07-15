@@ -2,7 +2,8 @@
 ​📌 Project Overview
 ​This project focuses on executing an automated Exploratory Data Analysis (EDA) pipeline to analyze, visualize, and understand structural patterns and underlying trends within transactional datasets. In contemporary data-driven enterprises, raw operational logs often contain structural noise and inconsistencies. This framework transforms unstructured operational logs into high-fidelity, business-ready intelligence by extracting critical descriptive statistics, identifying mathematical distributions, and mapping out structural bounds.
 ​🏗️ System Architecture & Framework
-​The system is built on a modular data engineering workflow, processing records through sequential computational layers under an IPO (Input \rightarrow Process \rightarrow Output) framework:
+​The system is built on a modular data engineering workflow, processing records through sequential computational layers under an IPO Input layer (input -> process -> output) 
+framework:
 ​Input Layer: Ingests raw transactional records and operational logs.
 ​Process Layer (Statistical Transformation): Computes continuous central tendencies (Mean, Median) and variance boundaries to isolate behavioral anomalies and evaluate structural schema constraints.
 ​Output Layer (Visual Synthesis): Generates programmatic distribution charts to mathematically validate variables before downstream engineering deployment.
@@ -42,5 +43,5 @@ Ensure you have Python installed along with the required analytical libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
  
-python untitled1.py
+python Khushi_Sharma_project_2_EDA.py
  
