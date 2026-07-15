@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Untitled1.ipynb
+"""Khushi_Sharma_project2_EDA.ipynb
 
 by Colab.
 
